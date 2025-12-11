@@ -1,0 +1,248 @@
+obs,family,species,origin,year
+1,Aclerdidae,Aclerda tokionis (Cockerell),PAL,1900
+2,Aclerdidae,Nipponaclerda biwakoensis (Kuwana),ORI,2016
+3,Asterolecaniidae,Asterodiaspis luteola (Russell),PAL,1915
+4,Asterolecaniidae,Asterodiaspis minor (Russell),PAL,1908
+5,Asterolecaniidae,Asterodiaspis quercicola (Bouche),PAL,1898
+6,Asterolecaniidae,Asterodiaspis variabilis (Russell),PAL,1903
+7,Asterolecaniidae,Asterodiaspis variolosa (Ratzeburg),PAL,1879
+8,Asterolecaniidae,Asterolecanium epidenri (Bouché),NEO,1941
+9,Asterolecaniidae,Bambusaspis bambusicola (Kuwana),ORI,1919
+10,Asterolecaniidae,Bambusaspis minuta (Takahashi),ORI,2024
+11,Asterolecaniidae,Planchonia arabidis (Signoret),PAL,1925
+12,Asterolecaniidae,Planchonia stentae (Brain),AFR,1980
+13,Asterolecaniidae,Pollinia pollini (Costa),PAL,1944
+14,Asterolecaniidae,Russellaspis pustulans (Cockerell) ,NEO,1882
+15,Cerococcidae,Cerococcus deklei Kostarab and Vest,NEO,1927
+16,Coccidae,Ceroplastes ceriferus (Fabricius),NEO,1907
+17,Coccidae,Ceroplastes cirripediformis Comstock,NEO,1880
+18,Coccidae,Ceroplastes dugesii Lichtenstein,NEO,1908
+19,Coccidae,Ceroplastes rubens Maskell,AFR,1955
+20,Coccidae,Ceroplastes rusci (Linnaeus),AFR,1994
+21,Coccidae,Ceroplastes sinensis Del Guercio,NEO,1920
+22,Coccidae,Ceroplates stellifer (Westwood),ORI,1953
+23,Coccidae,Coccus capparidis (Green),ORI,1974
+24,Coccidae,Coccus hesperidum Linnaeus,ORI,1880
+25,Coccidae,Coccus longulus (Douglas),ORI,1907
+26,Coccidae,Coccus pseudhesperidum (Cockerell),NEO,1923
+27,Coccidae,Coccus pseudomagnoliarum (Kuwana),PAL,1910
+28,Coccidae,Coccus viridis (Green),AFR,1921
+29,Coccidae,Eriopeltis festucae (Boyer de Fonscolombe),PAL,1899
+30,Coccidae,Eucalymnatus tessellatus (Signoret),NEO,1897
+31,Coccidae,Eulecanium cerasorum (Cockerell),PAL,1909
+32,Coccidae,Eulecanium kunoense (Kuwana),PAL,1896
+33,Coccidae,Eulecanium tiliae (Linnaeus),PAL,1908
+34,Coccidae,Kilifia acuminata (Signoret),ORI,1912
+35,Coccidae,Milviscutulus mangiferae (Green),ORI,1917
+36,Coccidae,Parthenolecanium corni (Bouché),PAL,1874
+37,Coccidae,Parthenolecanium fletcheri (Cockerell),PAL,1889
+38,Coccidae,Parthenolecanium persicae (Fabricius),PAL,1897
+39,Coccidae,Phalacrococcus howertoni Hodges and Hodgson,NEO,2008
+40,Coccidae,Physokermes hemicryphus (Dalman),PAL,1958
+41,Coccidae,Prococcus acutissimus (Green),ORI,1956
+42,Coccidae,Protopulvinaria pyriformis (Cockerell),NEO,1906
+43,Coccidae,Pseudokermes vitreus (Cockerell),NEO,1917
+44,Coccidae,Pulvinaria citricola Kuwana,PAL,1939
+45,Coccidae,Pulvinaria delottoi Gill,AFR,1973
+46,Coccidae,Pulvinaria elongata Newstead,AFR,1927
+47,Coccidae,Pulvinaria floccifera (Westwood),PAL,1892
+48,Coccidae,Pulvinaria phaiae Lull,PAL,1906
+49,Coccidae,Pulvinaria psidii Maskell,ORI,1909
+50,Coccidae,Pulvinaria urbicola Cockerell,NEO,1923
+51,Coccidae,Pulvinaria vitis (Linnaeus),PAL,1880
+52,Coccidae,Pulvinariella mesembryanthemi (Vallot),AFR,1971
+53,Coccidae,Saissetia coffeae (Walker),AFR,1914
+54,Coccidae,Saissetia miranda (Cockerell and Parrott),AFR,1918
+55,Coccidae,Saissetia neglecta De Lotto,AFR,1921
+56,Coccidae,Saissetia oleae (Olivier),AFR,1880
+57,Coccidae,Sphaerolecanium prunastri (Boyer de Fonscolombe),PAL,1895
+58,Conchaspididae,Conchaspis angraeci Cockerell,NEA,1905
+59,Cryptococcidae,Cryptococcus fagisuga Lindinger,PAL,1919
+60,Diaspididae,Acutaspis aliena (Newstead),NEO,1919
+61,Diaspididae,Aonidia lauri (Bouché),PAL,1907
+62,Diaspididae,Aonidiella aurantii (Maskell),ORI,1875
+63,Diaspididae,Aonidiella citrina (Coquillett),ORI,1872
+64,Diaspididae,Aonidiella inornata McKenzie,ORI,1968
+65,Diaspididae,Aonidiella orientalis (Newstead),ORI,1908
+66,Diaspididae,Aonidiella taxus Leonardi,ORI,1921
+67,Diaspididae,Aspidiella sacchari (Cockerell),ORI,1914
+68,Diaspididae,Aspidiotus cryptomeriae Kuwana,PAL,1937
+69,Diaspididae,Aspidiotus destructor Signoret,AUS,1920
+70,Diaspididae,Aspidiotus excisus Green,ORI,1964
+71,Diaspididae,Aspidiotus nerii Bouché,AUS,1880
+72,Diaspididae,Aulacaspis rosae (Bouché),PAL,1880
+73,Diaspididae,Aulacaspis tubercularis Newstead,ORI,2002
+74,Diaspididae,Aulacaspis yasumatsui Takagi,ORI,1996
+75,Diaspididae,Carulaspis juniperi (Bouché),PAL,1900
+76,Diaspididae,Carulaspis minima (Signoret),PAL,1932
+77,Diaspididae,Chionaspis etrusca Leonardi,PAL,1917
+78,Diaspididae,Chionaspis gilli Liu and Kosztarab,PAL,1933
+79,Diaspididae,Chionaspis salicis (Linnaeus),PAL,1898
+80,Diaspididae,Chionaspis wistariae Cooley,PAL,1926
+81,Diaspididae,Chrysomphalus aonidum (Linnaeus),ORI,1880
+82,Diaspididae,Comstockaspis perniciosa(Comstock),PAL,1870
+83,Diaspididae,Diaspidiotus braunschvigi (Rungs),PAL,1935
+84,Diaspididae,Diaspidiotus degeneratus (Leonardi),PAL,1931
+85,Diaspididae,Diaspidiotus gigas (Thiem and Gerneck),PAL,1902
+86,Diaspididae,Diaspidiotus ostreaeformis (Curtis),PAL,1895
+87,Diaspididae,Diaspis boisduvalii Signoret,NEO,1896
+88,Diaspididae,Diaspis bromeliae (Kerner),NEO,1899
+89,Diaspididae,Diaspis coccois Lichtenstein,NEO,1919
+90,Diaspididae,Dynaspidiotus abietis (Schrank),PAL,1923
+91,Diaspididae,Dynaspidiotus britannicus (Newstead),PAL,1898
+92,Diaspididae,Dynaspidiotus pseudomeyeri (Kuwana),PAL,1953
+93,Diaspididae,Dynaspidiotus tsugae (Marlatt),PAL,1900
+94,Diaspididae,Epidiaspis leperii (Signoret),PAL,1882
+95,Diaspididae,Fiorinia externa Ferris,PAL,1908
+96,Diaspididae,Fiorinia fioriniae (Targioni Tozzetti),ORI,1906
+97,Diaspididae,Fiorinia japonica Kuwana,PAL,1910
+98,Diaspididae,Fiorinia phantasma Cockerell & Robinson,AUS,2018
+99,Diaspididae,Fiorinia pinicola Maskell,PAL,1939
+100,Diaspididae,Fiorinia proboscidaria Green,ORI,2013
+101,Diaspididae,Fiorinia theae Green,ORI,1898
+102,Diaspididae,Froggatiella gigantochloae Aono,ORI,2011
+103,Diaspididae,Froggattiella penicillata (Green),ORI,1910
+104,Diaspididae,Genaparlatoria pseudaspidiotus (Lindinger),ORI,1908
+105,Diaspididae,Gymnaspis aechmeae Newstead,ORI,1917
+106,Diaspididae,Hemiberlesia lataniae (Signoret),NEO,1899
+107,Diaspididae,Hemiberlesia rapax (Comstock),PAL,1880
+108,Diaspididae,Howardia biclavis (Comstock),AFR,1912
+109,Diaspididae,Ischnaspis longirostris (Signoret),AFR,1908
+110,Diaspididae,Kuwanaspis bambusicola (Cockerell),AFR,2005
+111,Diaspididae,Kuwanaspis pseudoleucaspis (Kuwana),PAL,1916
+112,Diaspididae,Kuwanaspis vermiformis (Takahashi),ORI,1998
+113,Diaspididae,Lepidosaphes beckii (Newman),ORI,1859
+114,Diaspididae,Lepidosaphes camelliae Hoke,PAL,1881
+115,Diaspididae,Lepidosaphes chinensis Chamberlin,PAL,1927
+116,Diaspididae,Lepidosaphes conchiformis (Gmelin),PAL,1905
+117,Diaspididae,Lepidosaphes flava (Signoret),PAL,1952
+118,Diaspididae,Lepidosaphes gloverii (Packard),ORI,1838
+119,Diaspididae,Lepidosaphes mackieana McKenzie,ORI,1942
+120,Diaspididae,Lepidosaphes noxia McKenzie,ORI,1944
+121,Diaspididae,Lepidosaphes pallida (Maskell),PAL,1890
+122,Diaspididae,Lepidosaphes pinnaeformis (Bouché),ORI,1932
+123,Diaspididae,Lepidosaphes sciadopitysi McKenzie,PAL,1908
+124,Diaspididae,Lepidosaphes ulmi (Linnaeus),PAL,1794
+125,Diaspididae,Lepidosaphes yanagicola Kuwana,PAL,1925
+126,Diaspididae,Leucaspis portaeaureae Ferris,AUS,1938
+127,Diaspididae,Lindingaspis floridana Ferris,ORI,1921
+128,Diaspididae,Lindingaspis rossi (Maskell),AUS,1892
+129,Diaspididae,Lopholeucaspis japonica (Cockerell),PAL,1914
+130,Diaspididae,Melanaspis bromiliae (Leonardi),NEO,1923
+131,Diaspididae,Melanaspis leivasi (Costa Lima),NEO,2017
+132,Diaspididae,Mercetaspis halli (Green),PAL,1934
+133,Diaspididae,Mycetaspis personata (Comstock),NEO,1932
+134,Diaspididae,Oceanaspidiotus araucariae (Adachi and Fullaway),AUS,1985
+135,Diaspididae,Oceanaspidiotus spinosus (Comstock),AUS,1919
+136,Diaspididae,Odonaspis greenii Cockerell,ORI,1973
+137,Diaspididae,Odonaspis saccharicaulis (Zehntner),ORI,1920
+138,Diaspididae,Odonaspis secreta (Cockerell),PAL,1910
+139,Diaspididae,Opuntiaspis javanensis Green,NEA,1979
+140,Diaspididae,Parlatoreopsis chinensis (Marlatt),PAL,1940
+141,Diaspididae,Parlatoreopsis pyri (Marlatt),PAL,1960
+142,Diaspididae,Parlatoria blanchardi (Targioni Tozzetti),PAL,1905
+143,Diaspididae,Parlatoria crotonis Douglas,ORI,1901
+144,Diaspididae,Parlatoria oleae (Colvée),ORI,1931
+145,Diaspididae,Parlatoria pittospori Maskell,AUS,1935
+146,Diaspididae,Parlatoria theae Cockerell,PAL,1899
+147,Diaspididae,Parlatoria vandae McKenzie,ORI,1960
+148,Diaspididae,Parlatoria ziziphi (Lucas),ORI,1985
+149,Diaspididae,Pinnaspis aspidistrae (Signoret),ORI,1896
+150,Diaspididae,Pinnaspis buxi (Bouché),ORI,1922
+151,Diaspididae,Pinnaspis strachani (Cooley),ORI,1911
+152,Diaspididae,Poliaspis media Maskell,ORI,1993
+153,Diaspididae,Pseudaonidia duplex (Cockerell),PAL,1921
+154,Diaspididae,Pseudaonidia paeoniae (Cockerell),PAL,1909
+155,Diaspididae,Pseudaonidia trilobitiformis (Green),PAL,1979
+156,Diaspididae,Pseudaulacaspis prunicola (Maskell),PAL,1901
+157,Diaspididae,Pseudaulacaspis rubra (Green),ORI,2025
+158,Diaspididae,Pseudischnaspis boweryi (Cockerell),NEO,1890
+159,Diaspididae,Pseudoparlatoria ostreata Cockerell,NEO,1920
+160,Diaspididae,Pseudoparlatoria parlatorioides (Comstock),NEO,1880
+161,Diaspididae,Radionaspis indica (Marlatt),ORI,1907
+162,Diaspididae,Rhizaspidiotus donacis (Leonardi),PAL,2018
+163,Diaspididae,Rutherfordia major (Cockerell),ORI,1955
+164,Diaspididae,Selenaspidus albus McKenzie,AFR,1934
+165,Diaspididae,Selenaspidus articulatus (Morgan),AFR,1887
+166,Diaspididae,Selenaspidus rubidus McKenzie,AFR,1936
+167,Diaspididae,Thysanaspis dennorum Normark and Okusu,ORI,2014
+168,Diaspididae,Thysanofiorinia leei Williams,ORI,2019
+169,Diaspididae,Thysanofiorinia nephelii (Maskell),ORI,1996
+170,Diaspididae,Unachionaspis tenuis (Maskell),PAL,1999
+171,Diaspididae,Unaspis citri (Comstock),ORI,1880
+172,Diaspididae,Unaspis euonymi (Comstock),PAL,1879
+173,Eriococcidae,Acanthococcus lagerstroemiae (Kuwana),ORI,2004
+174,Eriococcidae,Acanthococcus pittospori (Ferris),AUS,1954
+175,Eriococcidae,Anophococcus insignis (Newstead),PAL,1924
+176,Eriococcidae,Gossyparia spuria (Modeer),PAL,1884
+177,Eriococcidae,Uhleria araucariae (Maskell),AUS,1880
+178,Kerriidae,Paratachardina pseudolobata Kondo & Gullan,ORI,1999
+179,Kuwaniidae,Kuwania quercus (Kuwana),PAL,1965
+180,Matsucoccidae,Matsucoccus matsumurae (Kuwana),PAL,1946
+181,Monophlebidae,Crypticerya genistae (Hempel),NEO,2005
+182,Monophlebidae,Icerya purchasi Maskell,AUS,1868
+183,Ortheziidae,Insignorthezia insignis (Browne),NEO,1911
+184,Phoenicococcidae,Phoenicococcus marlatti Cockerell,PAL,1905
+185,Pseudococcidae,Antonina crawi Cockerell,PAL,1900
+186,Pseudococcidae,Antonina graminis (Maskell),ORI,1942
+187,Pseudococcidae,Antonina nakaharai Williams and Miller,ORI,1911
+188,Pseudococcidae,Antonina pretiosa Ferris,PAL,1915
+189,Pseudococcidae,Brevennia rehi (Lindinger),ORI,1967
+190,Pseudococcidae,Chaetococcus bambusae (Maskell),PAL,1956
+191,Pseudococcidae,Chaetococcus phragmitis (Marchal),PAL,1975
+192,Pseudococcidae,Crisicoccus azaleae (Tinsley),PAL,1898
+193,Pseudococcidae,Crisicoccus pini (Kuwana),PAL,1918
+194,Pseudococcidae,Delottococcus confusus (De Lotto),AFR,2003
+195,Pseudococcidae,Dysmicoccus boninsis (Kuwana),PAL,1895
+196,Pseudococcidae,Dysmicoccus brevipes (Cockerell),NEO,1880
+197,Pseudococcidae,Dysmicoccus grassii (Leonardi),NEO,1966
+198,Pseudococcidae,Dysmicoccus neobrevipes Beardsley,NEO,1978
+199,Pseudococcidae,Dysmicoccus wistariae (Green),PAL,1915
+200,Pseudococcidae,Ferrisia malvastra (McDaniel),NEO,1918
+201,Pseudococcidae,Ferrisia virgata (Cockerell),NEO,1896
+202,Pseudococcidae,Heterococcus nudus (Green),PAL,1921
+203,Pseudococcidae,Hypogeococcus pungens Granara de Willink,NEO,1984
+204,Pseudococcidae,Hypogeococcus spinosus Ferris,NEA,1951
+205,Pseudococcidae,Idiococcus bambusae Takahashi and Kanda,PAL,1916
+206,Pseudococcidae,Maconellicoccus hirsutus (Green),ORI,1999
+207,Pseudococcidae,Nipaecoccus aurilanatus (Maskell),AUS,1912
+208,Pseudococcidae,Nipaecoccus nipae (Maskell),NEO,1897
+209,Pseudococcidae,Paracoccus gillianae von Ellenrieder & Stocks ,NEO,2010
+210,Pseudococcidae,Paracoccus hakeae (Williams),AUS,2016
+211,Pseudococcidae,Paracoccus marginatus Williams and Granara de Willink,NEA,1998
+212,Pseudococcidae,Phenacoccus aceris (Signoret),PAL,1910
+213,Pseudococcidae,Phenacoccus dearnessi King,PAL,1894
+214,Pseudococcidae,Phenacoccus graminicola Leonardi,PAL,1953
+215,Pseudococcidae,Phenacoccus miruku Tanaka & Choi,NEO,2019
+216,Pseudococcidae,Phenacoccus multicerarii Granara de Willink,NEO,2011
+217,Pseudococcidae,Phenacoccus parvus Morrison,NEO,1983
+218,Pseudococcidae,Phenacoccus peruvianus Granara de Willink,NEO,2020
+219,Pseudococcidae,Plamicultor lumpurensis (Takahashi),ORI,2002
+220,Pseudococcidae,Planococcus citri (Risso),ORI,1880
+221,Pseudococcidae,Planococcus ficus (Signoret),PAL,1924
+222,Pseudococcidae,Planococcus japonicus Cox,PAL,1978
+223,Pseudococcidae,Planococcus kraunhiae (Kuwana),PAL,1915
+224,Pseudococcidae,Planococcus minor (Maskell),AUS,2002
+225,Pseudococcidae,Pseudococcus calceolariae (Maskell),AUS,1913
+226,Pseudococcidae,Pseudococcus comstocki (Kuwana),PAL,1906
+227,Pseudococcidae,Pseudococcus dendrobiorum Williams,AUS,2009
+228,Pseudococcidae,Pseudococcus elisae Borchsenius,NEO,1995
+229,Pseudococcidae,Pseudococcus importatus McKenzie,NEO,1949
+230,Pseudococcidae,Pseudococcus jackbeardsleyi Gimpel and Miller,NEO,1921
+231,Pseudococcidae,Pseudococcus longispinus (Targioni Tozzetti),AUS,1881
+232,Pseudococcidae,Pseudococcus microcirculus McKenzie,NEO,1954
+233,Pseudococcidae,Pseudococcus nakaharai Gimpel and Miller ,NEA,1973
+234,Pseudococcidae,Pseudococcus odermatti Miller and Williams,ORI,1973
+235,Pseudococcidae,Saccharicoccus sacchari (Cockerell),ORI,1944
+236,Pseudococcidae,Spilococcus mamillariae (Bouché),NEA,1938
+237,Pseudococcidae,Trionymus bambusae (Green),ORI,2023
+238,Pseudococcidae,Trionymus diminutus (Leonardi),AUS,1906
+239,Pseudococcidae,Vryburgia amaryllidis (Bouché),AFR,1925
+240,Pseudococcidae,Vryburgia brevicruris (McKenzie),AFR,1935
+241,Pseudococcidae,Vryburgia trionymoides (De Lotto),AFR,1994
+242,Rhizoecidae,Geococcus coffeae Green,ORI,1958
+243,Rhizoecidae,Rhizoecus americanus (Hambleton),NEO,1959
+244,Rhizoecidae,Rhizoecus arabicus Hambleton,NEO,1982
+245,Rhizoecidae,Rhizoecus cacticans Hambleton,NEO,1948
+246,Rhizoecidae,Rhizoecus falcifer Kunckel d'Herculais,PAL,1917
+247,Rhizoecidae,Ripersiella kondonis (Kuwana),PAL,1921
